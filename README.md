@@ -68,13 +68,6 @@ Custom DAX measures were created to calculate:
 
 ![Spotify Power BI Dashboard](dashboard_overview.png)
 
-
-## 🚀 How to Use This Project
-1. Download the `.pbix` file from the repository
-2. Open it using **Power BI Desktop**
-3. Explore the dashboard using filters and slicers
-4. Analyze insights interactively
-
 ##  Live Dashboard
 👉 View the live interactive Power BI dashboard here:  
 [https://app.powerbi.com/view?r=XXXXXXXX
